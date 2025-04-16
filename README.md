@@ -11,6 +11,7 @@
 - **Matplotlib**, **Seaborn** pour la visualisation
 - **Scikit-learn** pour les modèles de machine learning
 - **Jupyter Notebook** pour le prototypage
-- **Streamlit** *(optionnel)* pour l’interface web de prédiction
+
+
 
 
